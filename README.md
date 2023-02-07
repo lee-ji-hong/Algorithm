@@ -26,7 +26,7 @@
 
 | 사이트 | 레벨 | 제목 | 풀이 | Reference Site | 
 | :---: | :---: | :---: | :---: | :---: |
-| - | - | - | <a href="#">🔗</a> | <a href="#">:bookmark:</a> |
+| 백준 | 브론즈2 | <a href="https://www.acmicpc.net/problem/17608">17608번 : 막대기</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/17608.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0/%EB%A7%89%EB%8C%80%EA%B8%B0.js">🔗</a> | - |
 
 ### 03. 큐
 
