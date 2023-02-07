@@ -1,20 +1,17 @@
-const fs = require('fs');
+const path = process.platform === 'linux' ? '/dev/stdin' : './input.txt'
+let ins = require('fs').readFileSync(path).toString().trim().split('\n')
 
-function main() {
-    let input = fs.readFileSync('/dev/stdin').toString().trim().split('\n');
-    let [N, h] = [+input.shift(), input.map(x => +x)];
-    let stack = [],
-        visible = 0;
+let n = +ins[0]
+let arr = ins.slice(1).map((s) => +s).reverse()
 
-    for (let i = 0; i < N; i++) {
-        while (visible !== 0 && stack[visible - 1] <= h[i]) {
-            visible--;
-        }
+let max = arr[0]
+let res = 1
 
-        stack[visible++] = h[i];
-    }
-
-    console.log(visible);
+for (let i = 1; i < arr.length; i++) {
+  if (arr[i] > max) {
+    max = arr[i]
+    res++
+  }
 }
 
-main();
+console.log(res)
