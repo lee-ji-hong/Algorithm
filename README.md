@@ -20,21 +20,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 백준 | - | <a href="https://www.acmicpc.net/problem/1918">1918번 : 후위 표기식</a>  | <a href="https://github.com/AlgorismTest/coding-test-study/blob/main/%EC%9D%B4%EC%A7%80%ED%99%8D/%EB%AC%B8%EC%A0%9C/1%EC%A3%BC%EC%B0%A8/1918/index.js">🔗</a>  | <a href="#">:bookmark:</a> |
 
-### 02. 스택
+### 02. 스택/큐
 
 개념 공부 : https://coding-ocean.tistory.com/94
 
 | 사이트 | 레벨 | 제목 | 풀이 | Reference Site | 
 | :---: | :---: | :---: | :---: | :---: |
 | 백준 | 브론즈2 | <a href="https://www.acmicpc.net/problem/17608">17608번 : 막대기</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/17608.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0/%EB%A7%89%EB%8C%80%EA%B8%B0.js">🔗</a> | - |
-
-### 03. 큐
-
-개념 공부 : https://coding-ocean.tistory.com/94
-
-| 사이트 | 레벨 | 제목 | 풀이 | Reference Site | 
-| :---: | :---: | :---: | :---: | :---: |
-| - | - | - | <a href="#">🔗</a> | <a href="#">:bookmark:</a> |
+| 프로그래머스 | Level 1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">같은 숫자는 싫어</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12906.%E2%80%85%EA%B0%99%EC%9D%80%E2%80%85%EC%88%AB%EC%9E%90%EB%8A%94%E2%80%85%EC%8B%AB%EC%96%B4/%EA%B0%99%EC%9D%80%E2%80%85%EC%88%AB%EC%9E%90%EB%8A%94%E2%80%85%EC%8B%AB%EC%96%B4.js">🔗</a> | - |
+| 프로그래머스 | Level 2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12909.%E2%80%85%EC%98%AC%EB%B0%94%EB%A5%B8%E2%80%85%EA%B4%84%ED%98%B8/%EC%98%AC%EB%B0%94%EB%A5%B8%E2%80%85%EA%B4%84%ED%98%B8.js">🔗</a> | - |
+| 프로그래머스 | Level 2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프린터</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42587.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0/%ED%94%84%EB%A6%B0%ED%84%B0.js">🔗</a> | - |
 
 ### 04. 덱
 
