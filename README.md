@@ -29,7 +29,7 @@
 | 백준 | 브론즈2 | <a href="https://www.acmicpc.net/problem/17608">17608번 : 막대기</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Bronze/17608.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0/%EB%A7%89%EB%8C%80%EA%B8%B0.js">🔗</a> | - |
 | 프로그래머스 | Level 1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">같은 숫자는 싫어</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12906.%E2%80%85%EA%B0%99%EC%9D%80%E2%80%85%EC%88%AB%EC%9E%90%EB%8A%94%E2%80%85%EC%8B%AB%EC%96%B4/%EA%B0%99%EC%9D%80%E2%80%85%EC%88%AB%EC%9E%90%EB%8A%94%E2%80%85%EC%8B%AB%EC%96%B4.js">🔗</a> | - |
 | 프로그래머스 | Level 2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12909.%E2%80%85%EC%98%AC%EB%B0%94%EB%A5%B8%E2%80%85%EA%B4%84%ED%98%B8/%EC%98%AC%EB%B0%94%EB%A5%B8%E2%80%85%EA%B4%84%ED%98%B8.js">🔗</a> | - |
-| 프로그래머스 | Level 2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프린터</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42587.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0/%ED%94%84%EB%A6%B0%ED%84%B0.js">🔗</a> | - |
+| 프로그래머스 | Level 2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프린터</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42587.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0/%ED%94%84%EB%A6%B0%ED%84%B0.js">🔗</a> | <a href="https://coding-ocean.tistory.com/95">:bookmark:</a> |
 
 ### 04. 덱
 
