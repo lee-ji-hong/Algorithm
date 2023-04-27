@@ -83,7 +83,7 @@
 
 | 사이트 | 레벨 | 제목 | 풀이 | Reference Site | 
 | :---: | :---: | :---: | :---: | :---: |
-| - | - | - | <a href="#">🔗</a> | <a href="#">:bookmark:</a> |
+| 프로그래머스 | Level 2 | <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a> | <a href="https://github.com/lee-ji-hong/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/43165.%E2%80%85%ED%83%80%EA%B2%9F%E2%80%85%EB%84%98%EB%B2%84">🔗</a> | - |
 
 ### 13. BFS
 
