@@ -60,7 +60,7 @@
 
 | 사이트 | 레벨 | 제목 | 풀이 | Reference Site | 
 | :---: | :---: | :---: | :---: | :---: |
-| - | - | - | <a href="#">🔗</a> | <a href="#">:bookmark:</a> |
+| 프로그래머스 | Level 2 | <a href="\https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42578.%E2%80%85%EC%9D%98%EC%83%81/%EC%9D%98%EC%83%81.js">🔗</a> | - |
 
 ### 09. 힙
 
