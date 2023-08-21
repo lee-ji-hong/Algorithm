@@ -1,8 +1,8 @@
 function solution(numbers) {
     
-    var answer = numbers.map(c=> c + '').
-    				sort((a,b) => (b+a) - (a+b)).join('');
-    
+    var answer = numbers.map(c=> c + '')
+    .sort((a,b) => (b+a) - (a+b)).join(''); 
+    // 숫자를 문자열로 변환하여 조합했을 때 큰 값이 앞에 오도록 내림차순으로 정렬
     return answer[0]==='0'? '0' : answer;
 }
 
