@@ -30,6 +30,9 @@
 | 프로그래머스 | Level 1 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">같은 숫자는 싫어</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12906.%E2%80%85%EA%B0%99%EC%9D%80%E2%80%85%EC%88%AB%EC%9E%90%EB%8A%94%E2%80%85%EC%8B%AB%EC%96%B4/%EA%B0%99%EC%9D%80%E2%80%85%EC%88%AB%EC%9E%90%EB%8A%94%E2%80%85%EC%8B%AB%EC%96%B4.js">🔗</a> | - |
 | 프로그래머스 | Level 2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12909.%E2%80%85%EC%98%AC%EB%B0%94%EB%A5%B8%E2%80%85%EA%B4%84%ED%98%B8/%EC%98%AC%EB%B0%94%EB%A5%B8%E2%80%85%EA%B4%84%ED%98%B8.js">🔗</a> | - |
 | 프로그래머스 | Level 2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프린터</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42587.%E2%80%85%ED%94%84%EB%A6%B0%ED%84%B0/%ED%94%84%EB%A6%B0%ED%84%B0.js">🔗</a> | <a href="https://coding-ocean.tistory.com/95">:bookmark:</a> |
+| 백준 | 실버 | <a href="https://www.acmicpc.net/problem/10828">스택</a> | <a href="https://github.com/lee-ji-hong/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/10828.%E2%80%85%EC%8A%A4%ED%83%9D">🔗</a> | <a href="hhttps://gurtn.tistory.com/67">:bookmark:</a> |
+| 백준 | 실버 | <a href="https://www.acmicpc.net/problem/10845">큐</a> | <a href="https://github.com/lee-ji-hong/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/10845.%E2%80%85%ED%81%90">🔗</a> |-|
+| 프로그래머스 | Level 2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973">짝지어 제거하기</a> | <a href="https://github.com/lee-ji-hong/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12973.%E2%80%85%EC%A7%9D%EC%A7%80%EC%96%B4%E2%80%85%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0">🔗</a> | - |
 
 ### 04. 덱
 
@@ -59,7 +62,7 @@
 
 | 사이트 | 레벨 | 제목 | 풀이 | Reference Site | 
 | :---: | :---: | :---: | :---: | :---: |
-| - | - | - | <a href="#">🔗</a> | <a href="#">:bookmark:</a> |
+| 프로그래머스 | Level 2 | <a href="\https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a> | <a href="https://github.com/lee-ji-hong/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42578.%E2%80%85%EC%9D%98%EC%83%81/%EC%9D%98%EC%83%81.js">🔗</a> | - |
 
 ### 09. 힙
 
@@ -71,7 +74,7 @@
 
 | 사이트 | 레벨 | 제목 | 풀이 | Reference Site | 
 | :---: | :---: | :---: | :---: | :---: |
-| - | - | - | <a href="#">🔗</a> | <a href="#">:bookmark:</a> |
+| 프로그래머스 | Level 2 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746">가장 큰 수</a> | <a href="https://github.com/lee-ji-hong/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42746.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%88%98">🔗</a> | <a href="">:bookmark:</a> |
 
 ### 11. 그래프
 
@@ -83,7 +86,7 @@
 
 | 사이트 | 레벨 | 제목 | 풀이 | Reference Site | 
 | :---: | :---: | :---: | :---: | :---: |
-| - | - | - | <a href="#">🔗</a> | <a href="#">:bookmark:</a> |
+| 프로그래머스 | Level 2 | <a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a> | <a href="https://github.com/lee-ji-hong/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/43165.%E2%80%85%ED%83%80%EA%B2%9F%E2%80%85%EB%84%98%EB%B2%84">🔗</a> | - |
 
 ### 13. BFS
 
